@@ -11,7 +11,7 @@ This project is a Streamlit web application that classifies user comments into 9
 
 (A good screenshot shows your app classifying a comment, like the "Constructive Criticism" example.)
 
-![Screenshot of the Comment Classifier App](screenshot.png)
+![Screenshot of the Comment Classifier App](https://github.com/somethingshawnx/Comment-Categorization/blob/main/Screenshot%202025-11-14%20164014.png)
 
 ---
 

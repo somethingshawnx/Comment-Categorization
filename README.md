@@ -2,6 +2,8 @@
 
 An intelligent comment classification system that automatically categorizes user comments into 8 distinct categories and provides suggested replies for content moderation and engagement.
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://comment-categorization-facb4ccba4nfr8jiwkcdaq.streamlit.app/)
+
 ## 🎯 Features
 
 - **Multi-Category Classification**: Classifies comments into 8 categories:

@@ -71,3 +71,19 @@ A key challenge was the highly imbalanced nature of the source data. To solve th
 Install all libraries:
 ```bash
 pip install streamlit pandas scikit-learn nltk
+
+## 🚀 How to Run
+
+### 1. Prerequisites
+
+You must have these two files in the same folder as `app.py`:
+
+*(You would list your files here, e.g.,)*
+* `comments.csv`
+* `train.csv`
+
+### 2. Run the App
+
+*(You would put your run commands here, e.g.,)*
+```bash
+streamlit run app.py
